@@ -1,0 +1,34 @@
+{
+    "models": {
+        "desktop": {
+            "default": {
+                "class": "GraphLinksModel",
+                "linkDataArray": [],
+                "nodeDataArray": [
+                    {
+                        "formKUID": "ecf934dca3ec4f67ac1de3a155e7de8a",
+                        "formName": "Form1",
+                        "isStartupForm": true,
+                        "key": "ecf934dca3ec4f67ac1de3a155e7de8a",
+                        "loc": "0 0",
+                        "thumbnailURL": "/assets/sampleAppForCICD/forms/desktop/Form1.sm/.thumbs/default.jpeg"
+                    }
+                ]
+            }
+        },
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [],
+            "nodeDataArray": [
+                {
+                    "formKUID": "dce19e9b9b9448fea650b21066f9893e",
+                    "formName": "Form1",
+                    "isStartupForm": true,
+                    "key": "dce19e9b9b9448fea650b21066f9893e",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": "/assets/sampleAppForCICD/forms/mobile/Form1.sm/.thumbs/default.jpeg"
+                }
+            ]
+        }
+    }
+}
